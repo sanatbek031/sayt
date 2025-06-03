@@ -1,0 +1,29 @@
+header{
+    background-color: rgb(152, 191, 179);
+    border-radius: 10px;
+}
+header:hover{
+    background-color: rgb(125, 164, 198);
+}
+#headerul{
+    
+}
+.headera{
+    color: rgb(7, 7, 7);
+}
+.headera:hover{
+    color: white;
+}
+#headerh1{
+    text-align: center;
+}
+body{
+    background-color: #e0f7fa;
+}
+img{
+    width: 80%;
+    border-radius: 20px;
+}
+p{
+    
+}
