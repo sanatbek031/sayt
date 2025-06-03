@@ -5,9 +5,6 @@ header{
 header:hover{
     background-color: rgb(125, 164, 198);
 }
-#headerul{
-    
-}
 .headera{
     color: rgb(7, 7, 7);
 }
@@ -24,9 +21,6 @@ img{
     width: 80%;
     border-radius: 20px;
 }
-p{
-    
-}
 #asosiyh1{
     text-align: center;
     justify-content: center;
@@ -41,4 +35,17 @@ div{
     border-top-right-radius: 10px;
     text-align: center;
     justify-content:center;
+}
+button{
+    text-align: center;
+    background-color: #4CAF50; 
+      color: white;             
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+}
+.buttonp{
+    text-align: center;
 }
