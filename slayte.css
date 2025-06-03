@@ -27,3 +27,18 @@ img{
 p{
     
 }
+#asosiyh1{
+    text-align: center;
+    justify-content: center;
+}
+div{
+    width: 100%;
+}
+.divindex{
+    background-color: antiquewhite;
+    width: 45%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    text-align: center;
+    justify-content:center;
+}
