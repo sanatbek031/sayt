@@ -52,9 +52,6 @@ button:hover{
     background-color: white; 
     color: #4CAF50;  
 }
-.buttonp{
-    text-align: center;
-}
 #mehmonxonah1{
     text-align: center;
     justify-content: center;
@@ -63,5 +60,8 @@ button:hover{
     font-size: 20px;
 }
 .indexrasm{
+    text-align: center;
+}
+.buttonp{
     text-align: center;
 }
