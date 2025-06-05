@@ -1,71 +1,87 @@
-header{
+header {
     background-color: rgb(152, 191, 179);
     border-radius: 10px;
 }
-header:hover{
+
+header:hover {
     background-color: rgb(125, 164, 198);
 }
-.headera{
+
+.headera {
     color: rgb(7, 7, 7);
 }
-.headera:hover{
+
+.headera:hover {
     color: white;
 }
-#headerh1{
+
+#headerh1 {
     text-align: center;
     font-size: 50px;
 }
-body{
+
+body {
     background-color: #e0f7fa;
 }
-img{
+
+img {
     width: 80%;
     border-radius: 20px;
 }
-#asosiyh1{
+
+#asosiyh1 {
     text-align: center;
     justify-content: center;
 }
-div{
+
+div {
     width: 100%;
-    justify-content: center;
+
 }
-.divindex{
+
+.divindex {
     background-color: antiquewhite;
     width: 45%;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
-    text-align: center;
-    justify-content:center;
+    text-align:center;
+    justify-content: center;
     align-items: center;
 }
-button{
+
+button {
     text-align: center;
-    background-color: #4CAF50; 
-      color: white;             
-      padding: 10px 20px;
-      border: none;
-      border-radius: 5px;
-      cursor: pointer;
-      font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
 }
-button:hover{
-    background-color: white; 
-    color: #4CAF50;  
+
+button:hover {
+    background-color: white;
+    color: #4CAF50;
 }
-#mehmonxonah1{
+
+#mehmonxonah1 {
     text-align: center;
     justify-content: center;
 }
-.indexp{
+
+.indexp {
     font-size: 18px;
 }
-.indexrasm{
+
+.indexrasm {
     text-align: center;
 }
-.buttonp{
+
+.buttonp {
     text-align: center;
 }
-li{
+
+li {
     font-size: 25px;
 }
