@@ -85,3 +85,11 @@ button:hover {
 li {
     font-size: 25px;
 }
+footer{
+    background-color: rgb(133, 131, 131);
+    border-radius: 10px;
+
+}
+footer:hover{
+    color: azure;
+}
